@@ -1,4 +1,4 @@
-public class Subtract
+public class Subtract implements Operation
 {
 	public int perform(int x,y) //performs operation on x,y
 	{

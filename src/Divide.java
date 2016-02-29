@@ -1,4 +1,4 @@
-public class Divide
+public class Divide implements Operation
 {
 	public int perform(int x,y) //performs operation on x,y
 	{
